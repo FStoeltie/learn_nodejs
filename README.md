@@ -14,6 +14,9 @@ To start, it is recommended to install the following tools:
 The repository is the current project (https://github.com/FStoeltie/learn_nodejs).
 After installing the git tool stated above locally, the current project can be pulled (downloaded) locally to the computer.
 to do this get the HTTPS link of the current repistory as seen in the image.
+
+![copy repository](https://github.com/FStoeltie/learn_nodejs/blob/main/readme/img/road_to_nodejs.jpg)
+
 Copy the link and then clone the repository to the desired directory on the computer.
 To do this: Open command prompt or powershell, navigate to a directory (example: C:\development) and run the following command: 'git clone https://github.com/FStoeltie/learn_nodejs.git'. This should clone the repository to the directory and a new folder will be created with the name: 'learn_nodejs'.
 Navigate to this folder in the command prompt (run: 'cd learn_nodejs').
