@@ -1,0 +1,25 @@
+{
+  "name": "learn_nodejs",
+  "version": "1.0.0",
+  "description": "Guide to learning nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FStoeltie/learn_nodejs.git"
+  },
+  "keywords": [
+    "learn",
+    "magic",
+    "happy",
+    "palace"
+  ],
+  "author": "Ferdi Stoeltie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FStoeltie/learn_nodejs/issues"
+  },
+  "homepage": "https://github.com/FStoeltie/learn_nodejs#readme"
+}
